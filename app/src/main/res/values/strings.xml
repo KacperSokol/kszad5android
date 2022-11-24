@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="show_sensor_menu">Pokaż liczbę czujników</string>
+    <string name="hide_sensor_menu">Ukryj liczbę czujników</string>
+    <string name="sensor_count">Liczba czujników: %d</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="sensor_details">%f</string>
+    <string name="location_text">"Szerokość geograficzna: %1$.4f \n Długość
+geograficzna: %2$.4f \n Czas: %3$tr"</string>
+    <string name="address_text">"Adres: %1$s \n Czas: %2$tr"</string>
+</resources>

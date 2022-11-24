@@ -1,0 +1,15 @@
+
+f
+java:S1301B"KReplace this "switch" statement by "if" statements to increase readability.(Ì»¹üÿÿÿÿ
+{	java:S116+"fRename this field "REQUEST_LOCATION_PERMISSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÂê¦
+7
+java:S1170+"!Make this final field static too.(şÂê¦
+o
+java:S1450%"YRemove the "addressBtn" field and declare it as a local variable in the relevant methods.(‚ÊÁñ
+p
+java:S1450$"ZRemove the "locationBtn" field and declare it as a local variable in the relevant methods.(»Û®ó
+u
+java:S1450'"_Remove the "locationTextView" field and declare it as a local variable in the relevant methods.(ó©”Œ
+[
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(şÂê¦
+<	java:S131B""Add a default case to this switch.(Ì»¹üÿÿÿÿ

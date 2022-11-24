@@ -1,0 +1,10 @@
+
+v
+java:S1450""[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ
+r
+java:S1450 "\Remove the "sensorManager" field and declare it as a local variable in the relevant methods.(Þ¬–„
+F
+java:S1481d"+Remove this unused "sensor" local variable.(¢‰¹®üÿÿÿÿ
+j	java:S116Ž"URename this field "SENSOR_TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ó¸
+W	java:S125¡"<This block of commented-out lines of code should be removed.(éÀËþÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
